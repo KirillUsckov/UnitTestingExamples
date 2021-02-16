@@ -93,6 +93,7 @@ namespace UnitTestProject
             Assert.True(storage.Delete(fileName));
         }
 
+        //test
         /* Тестирование получения файлов */
         [Test]
         public void GetFilesTest()
